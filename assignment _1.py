@@ -2,7 +2,7 @@
 """
 Created on Sat Jun 23 12:02:42 2018
 
-@author: Rao
+@author: subha
 """
 
 fname= input(" Please enter your first name :")
